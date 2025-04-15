@@ -2,7 +2,7 @@
 Contributors: metagauss
 Tags: theme, themes, download-theme, download-theme-zip, theme-zip, download, zip, wordpress, admin, download-theme-from-wordpress-admin-panel, code, development, theme-download
 Requires at least: 3.0
-Tested up to: 6.6
+Tested up to: 6.7
 Stable tag: 1.1.2
 License: GPLv3
 
