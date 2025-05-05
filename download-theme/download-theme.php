@@ -7,7 +7,7 @@ Version: 1.1.2
 Author: Metagauss
 Author URI: https://profiles.wordpress.org/metagauss/
 Text Domain: download-theme
-Tested up to: 6.5
+Tested up to: 6.8
 */
 
 /**
